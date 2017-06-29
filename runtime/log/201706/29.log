@@ -1,0 +1,329 @@
+---------------------------------------------------------------
+[ 2017-06-29T15:24:45+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.428025s][吞吐率：2.34req/s] [内存消耗：251.56kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T15:24:50+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.014000s][吞吐率：71.43req/s] [内存消耗：246.94kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T15:25:28+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.146008s][吞吐率：6.85req/s] [内存消耗：282.30kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T15:26:13+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.121007s][吞吐率：8.26req/s] [内存消耗：251.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected '}'[D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php:10]
+---------------------------------------------------------------
+[ 2017-06-29T15:26:21+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.015001s][吞吐率：66.66req/s] [内存消耗：280.13kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T15:26:34+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.008000s][吞吐率：125.00req/s] [内存消耗：280.13kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T16:05:33+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.458027s][吞吐率：2.18req/s] [内存消耗：287.80kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-06-29T16:05:43+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.116006s][吞吐率：8.62req/s] [内存消耗：281.06kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\model\User' not found[D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php:9]
+---------------------------------------------------------------
+[ 2017-06-29T16:11:17+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.080004s][吞吐率：12.50req/s] [内存消耗：287.95kb] [文件加载：49]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\model\User' not found[D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php:9]
+---------------------------------------------------------------
+[ 2017-06-29T16:16:24+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.406024s][吞吐率：2.46req/s] [内存消耗：420.14kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.107006s ] mysql:dbname=thinkphp;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `imooc_user` [ RunTime:0.064003s ]
+[ error ] [0]数据表字段不存在:[create_time][D:\phpStudy\WWW\thinkphp\thinkphp\library\think\db\Builder.php:107]
+---------------------------------------------------------------
+[ 2017-06-29T16:32:57+08:00 ] ::1 ::1 GET /thinkphp/public/
+[ info ] localhost/thinkphp/public/ [运行时间：0.169010s][吞吐率：5.92req/s] [内存消耗：443.78kb] [文件加载：53]
+[ info ] [ LANG ] D:\phpStudy\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__distillery=2544095_16f583ff-a749-48b9-bfee-dd26248605c1-c2ad9f5bc-53d18ef8b00c-2f35; device_id=108295602560494634; PHPSESSID=erlgt5er1ushs29tfocsocn4r2; bp-activity-oldestpage=1',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'referer' => 'http://localhost/thinkphp/',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpStudy\WWW\thinkphp\app\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.012001s ] mysql:dbname=thinkphp;host=127.0.0.1;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `imooc_user` [ RunTime:0.015001s ]
+[ sql ] [ SQL ] INSERT INTO `imooc_user` (`name` , `password` , `create_time` , `update_time`) VALUES ('imooc' , '914f21eb84c6fdb2b663dd6f453f65ca' , 1498725177 , 1498725177) [ RunTime:0.022001s ]
